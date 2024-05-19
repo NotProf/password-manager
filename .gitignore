@@ -1,0 +1,4 @@
+node_modules
+session.json
+users.json
+secrets_*.json
